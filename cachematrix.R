@@ -1,5 +1,5 @@
 ## R Programming - Programming Assignment 2
-## Using Lexigraphical Scoping to store inverted matricies
+## Using Lexical Scoping to store inverted matricies
 ##      to reduce computation time if inverting the same matrix
 ##      occurs often in the program.
 
